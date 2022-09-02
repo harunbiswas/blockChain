@@ -1,0 +1,14 @@
+{
+  "name": "blockchaneProject1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Harun Biswas Rubel",
+  "license": "MIT",
+  "private": null,
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
